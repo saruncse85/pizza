@@ -14,6 +14,6 @@
         
 #### Step 5: Run the application using below command.
      Example: C:\Pizza> java -jar target\Pizza-0.0.1-SNAPSHOT.jar com.aquent.pizza.PizzaApplication <SourceFile> <DestinationFile> <enter>        
-     Note : Sample input file "inputFile.txt" available in the root folder.
+     Note : Sample input file "sample_data_ordered.txt" available in the root folder.
      
 #### Step 6: Check the output file in the destination folder.
